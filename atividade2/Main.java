@@ -23,7 +23,7 @@ public class Main {
             System.out.println("8 - Listar Empréstimos");
             System.out.println("0 - Sair");
             System.out.print("Escolha uma opção: ");
-            opcao = sc.nextInt();1
+            opcao = sc.nextInt();
             sc.nextLine(); // consumir quebra de linha
 
             switch (opcao) {
