@@ -1,0 +1,26 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TesteConexao",
+            "request": "launch",
+            "mainClass": "TesteConexao",
+            "projectName": "ProjetoBiblioteca_54651a9f"
+        },
+        {
+            "type": "java",
+            "name": "Launch SistemaBiblioteca",
+            "request": "launch",
+            "mainClass": "SistemaBiblioteca",
+            "projectName": "ProjetoBiblioteca"
+        },
+        {
+            "type": "java",
+            "name": "Launch TesteConexao",
+            "request": "launch",
+            "mainClass": "TesteConexao",
+            "projectName": "ProjetoBiblioteca"
+        }
+    ]
+}
